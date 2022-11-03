@@ -1,13 +1,11 @@
-# Godot Repository Template
+# 2D Platform Godot
 
 ## Description
 
-Um simple repositório template para projetos em Godot
+A simple 2D platform game made in Godot
 
 ## Links
 
 - [Play](https://master.d3kjckivyd1c76.amplifyapp.com);
-- [Code](https://github.com/201flaviosilva-labs/Godot-Repository-Template);
-	- [Bitbucket - Godot Project](https://bitbucket.org/201flaviosilva/workspace/projects/GODOT/);
+- [Code](https://github.com/201flaviosilva-labs/2d-platform-godot);
 - [Godot Official Web Site](https://godotengine.org/);
-- [Tutorial]();
